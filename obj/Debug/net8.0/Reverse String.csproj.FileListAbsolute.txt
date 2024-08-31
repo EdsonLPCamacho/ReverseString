@@ -1,0 +1,14 @@
+C:\CHALLENGE\Reverse String\bin\Debug\net8.0\Reverse String.exe
+C:\CHALLENGE\Reverse String\bin\Debug\net8.0\Reverse String.deps.json
+C:\CHALLENGE\Reverse String\bin\Debug\net8.0\Reverse String.runtimeconfig.json
+C:\CHALLENGE\Reverse String\bin\Debug\net8.0\Reverse String.dll
+C:\CHALLENGE\Reverse String\bin\Debug\net8.0\Reverse String.pdb
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\Reverse String.AssemblyInfoInputs.cache
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\Reverse String.AssemblyInfo.cs
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\Reverse String.csproj.CoreCompileInputs.cache
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\Reverse String.dll
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\refint\Reverse String.dll
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\Reverse String.pdb
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\Reverse String.genruntimeconfig.cache
+C:\CHALLENGE\Reverse String\obj\Debug\net8.0\ref\Reverse String.dll
